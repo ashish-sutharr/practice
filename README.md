@@ -1,3 +1,3 @@
 # this is my first repo
 
-for practice
+I am Ashish Suthar.
